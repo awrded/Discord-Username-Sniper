@@ -1,0 +1,3 @@
+Basic setup, right click the file anywhere in your files folders it doesn't matter. Once ran the file close it and open the settings .txt file and put in your Discord token, after that you can reopen and begin sniping usernames.
+Please note that proxies are highly recommended with such tools to be safe but if you want to change the settings for delay ecetra it's all in settings to be changed and it goes via seconds.
+You can setup webhooks via webhook or settings .txt they both work the same, i highly recommend keeping jitter on to ensure safety if you lower the delay. having the delay above 3 it can be turned off.
